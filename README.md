@@ -1,47 +1,93 @@
-# 👋 Hello World! I'm Nife Esleman
+<h1 align="center">Hi 👋, I'm Nife Esleman</h1>
+<h3 align="center">A passionate frontend developer from Arba Minch University</h3>
 
-🎓 **4th-Year Software Engineering Student**  
-📍 Studying at **Arba Minch University**  
-💻 Fueling my passion for **web development** and **cutting-edge technologies**
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=nifeesleman&label=Profile%20views&color=0e75b6&style=flat" alt="nifeesleman" />
+</p>
+
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=nifeesleman&margin-w=15&margin-h=15&column=7&theme=dracula" alt="nifeesleman trophies" />
+   </a>
+</p>
+
+<p align="center">
+   <a href="https://twitter.com/nifeesleman" target="blank">
+      <img src="https://img.shields.io/twitter/follow/nifeesleman?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+   </a>
+</p>
 
 ---
 
 ### 🌐 About Me
-I’m a final-year software engineering student, diving deep into front-end development to create web experiences that are both functional and beautiful. My toolkit includes **JavaScript**, **React**, **HTML**, **CSS**, and **Bootstrap**. Every day, I push myself to learn more, create more, and make a meaningful impact in the tech world.
+I'm a final-year software engineering student dedicated to front-end development, focusing on building functional and visually appealing web experiences. My toolkit includes **JavaScript**, **React**, **HTML**, **CSS**, and **Bootstrap**. Each day, I work toward learning more and making an impact in the tech world.
 
-- 🌱 **Currently Exploring**: Advanced React and delving into back-end concepts
-- 🏆 **2024 Goals**: To master full-stack development and contribute to open-source projects
-- 🎉 **Fun Fact**: I’m always on the lookout for the next cool framework or library to speed up development!
-
----
-
-### 💻 Technologies & Tools
-| **Languages**           | JavaScript                          |
-|--------------------------|-------------------------------------|
-| **Front-End**            | HTML, CSS, Bootstrap, React        |
-| **Development Tools**    | Git, GitHub, Visual Studio Code    |
+- 🌱 **Currently Exploring**: Advanced React and back-end concepts
+- 🏆 **2024 Goals**: Master full-stack development and contribute to open-source projects
+- 🎉 **Fun Fact**: Always on the hunt for new frameworks or libraries to boost productivity!
 
 ---
 
-### 🚀 Projects
-Here are a few projects I’m proud to showcase:
-
-- **[Heart Disease Prediction](https://github.com/yourusername/heart-disease-prediction)**  
-   Using data analytics and the **Random Forest** algorithm, this project aims to predict heart disease with accuracy.
-
-- **[Arba Minch University Registrar Portal](https://github.com/yourusername/amu-registrar-portal)**  
-   Designed to streamline the registration process, this responsive portal leverages my front-end skills for an improved user experience.
-
----
-
-### 📬 Let's Connect!
-I'm eager to connect, collaborate, and learn together. Reach out on any of the platforms below:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nifeeleman@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nifeesleman)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nifeesleman)
+<h3 align="left">🌐 Connect with Me:</h3>
+<p align="left">
+   <a href="https://twitter.com/nifeesleman" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+   </a>
+   <a href="https://linkedin.com/in/nifeesleman" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+   </a>
+   <a href="https://www.youtube.com/c/real-software" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+   </a>
+</p>
 
 ---
 
-Thanks for stopping by my profile! 😊 Let's build and innovate together. Happy coding! 🚀✨
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+   </a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+   </a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+   </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+   </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+   </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+   </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+   </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+   </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+   <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=nifeesleman&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nifeesleman&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+   </p>
+   
+   <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nifeesleman&theme=radical" alt="Streak Stats" height="180"/>
+   </p>
+</div>
+
+---
+
