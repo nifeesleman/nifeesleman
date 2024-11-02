@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Nife Esleman
 
 🎓 **4th-Year Software Engineering Student**  
 📍 Studying at **Arba Minch University**  
@@ -16,7 +16,7 @@ I'm a dedicated software engineering student at Arba Minch University, building 
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python
+- **Languages**: JavaScript
 - **Front-End**: HTML, CSS, Bootstrap, React
 - **Tools**: Git, GitHub, VS Code
 
@@ -37,7 +37,9 @@ Here are some projects that showcase my skills and dedication:
 I'm always open to collaborating on projects and learning from other developers. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nifeeleman@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@nifeesleman)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/@nifeesleman)
 
 ---
 
