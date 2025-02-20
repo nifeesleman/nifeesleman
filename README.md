@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nife Esleman</h1>
-<h5 align="center">I am a smart contract developer specializing in Solidity, building decentralized applications and blockchain solutions. My expertise includes creating, deploying, and optimizing smart contracts for secure and efficient Web3 applications.
+<p align="center">I am a smart contract developer specializing in Solidity, building decentralized applications and blockchain solutions. My expertise includes creating, deploying, and optimizing smart contracts for secure and efficient Web3 applications.
 
 Additionally, I have experience in website development using React, HTML, CSS, JavaScript, and PHP to create, maintain, and improve websites for various clients. I have delivered multiple projects, including a responsive e-commerce site, a dynamic blog platform, and a user-friendly portfolio site.
 
@@ -7,7 +7,7 @@ I also have a strong foundation in networking and cybersecurity, allowing me to 
 
 I am currently a software engineering student at Arba Minch University, where I am learning the fundamentals of software development, such as data structures, algorithms, databases, and software engineering principles. I am passionate about blockchain technology, Web3 development, and innovative software solutions that solve real-world problems.
 
-My goal is to advance in blockchain and smart contract development while continuously expanding my technical expertise in full-stack development and networking.</h5>
+My goal is to advance in blockchain and smart contract development while continuously expanding my technical expertise in full-stack development and networking.</p>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=nifeesleman&label=Profile%20views&color=0e75b6&style=flat" alt="nifeesleman" />
