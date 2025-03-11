@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nife Esleman</h1>
-<p align="center">I am a smart contract developer specializing in Solidity, building decentralized applications and blockchain solutions. My expertise includes creating, deploying, and optimizing smart contracts for secure and efficient Web3 applications.
+<p >I am a smart contract developer specializing in Solidity, building decentralized applications and blockchain solutions. My expertise includes creating, deploying, and optimizing smart contracts for secure and efficient Web3 applications.
 
 </p>
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=nifeesleman&label=Profile%20views&color=0e75b6&style=flat" alt="nifeesleman" />
-</p>
 
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,11 +10,6 @@
    </a>
 </p>
 
-<p align="center">
-   <a href="https://twitter.com/nifeesleman" target="blank">
-      <img src="https://img.shields.io/twitter/follow/nifeesleman?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-   </a>
-</p>
 
 ---
 
