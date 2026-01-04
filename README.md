@@ -1,26 +1,23 @@
-## Hey there! 👋
+**Hey there! 💪**
 
-I'm **<a href="https://www.linkedin.com/in/nifeesleman/">Nife</a>**, a Web3 & blockchain developer based in Ethiopia 🇪🇹
+I'm **[Nife](https://www.linkedin.com/in/nifeesleman/)**, a blockchain & Web3 engineer
 
-I design and build whatever I can imagine.
+I design and build whatever I can imagine on-chain.
 
-If an idea pops into my head, chances are I'll turn it into a smart contract, a DApp, or a real product — and ship it 🚀
+If an idea pops into my head, chances are I’ll turn it into a smart contract, test it thoroughly, and ship it 🚀
 
-My main tech stack includes **Solidity, Foundry, Ethereum Account Abstraction (ERC-4337), React, TypeScript, and Node.js**.  
-My favorite tools are **VS Code, Foundry, GitHub, and on-chain testing frameworks**.
+My main tech stack includes **Solidity,Foundry,  React, Next.js, TypeScript, Node.js and JavaScript**. My favorite tools and Libraries are **VS Code,Remix, GitHub, OpenZeppelin,Solmate,PRBMath,Safe (Gnosis Safe) patterns,Git and Chainlink**. And my favorite Ethereum & Protocol Knowledge are **ERC standards(ERC20, ERC721, ERC1155 and ERC4337 (Account Abstraction), EntryPoint internals, Gas mechanics, Mempool vs private tx, Proxies (UUPS, Transparent) and CREATE2**
 
-I've got a bunch of pinned projects, but my favorites are related to  
-**Smart Contracts, Account Abstraction wallets, DeFi logic, and Web3 infrastructure**.
+I’ve got a bunch of pinned projects, but my favorite ones are related to  
+**Account Abstraction (ERC-4337) and  DeFi logic**.
 
-I've built **100+ public repositories**, and privately… it's probably **200+** by now.
+I’ve built **20+ public repositories**, and privately… it’s probably **40+** by now 😄
 
-I'm focused on building **real, production-level Web3 systems** and continuously leveling up as a blockchain engineer.
+If you want to learn how I build secure, gas-optimized Web3 systems, follow my journey and projects here.
 
----
+**Fun Facts:**
 
-### ⚡ Fun Facts
-
-- I love deep-diving into how protocols actually work  
-- I don't drink coffee or tea ☕❌  
-- **Demon Slayer** is my favorite anime 🔥  
-- Hobbies: **anime, gym, building products, and learning nonstop**
+- I love breaking things just to understand how they work  
+- I don’t drink coffee or tea ☕❌  
+- Anime is a big inspiration for my creativity (Demon Slayer 🔥)  
+- Hobbies: **anime, gym and building real products on-chain**
