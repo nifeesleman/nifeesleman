@@ -1,6 +1,6 @@
 **Hey there! 💪**
 
-I'm **[Nife](https://www.linkedin.com/in/nifeesleman/)**, a blockchain & Web3 engineer
+I'm **[Nife](https://nifeesleman.dev/)**, a blockchain & Web3 engineer
 
 I design and build whatever I can imagine on-chain.
 
