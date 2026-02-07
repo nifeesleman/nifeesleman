@@ -1,6 +1,6 @@
 **Hey there! 💪**
 
-I'm **[Nife](https://nifeesleman.dev/)**, a blockchain engineer , Smart Contract developer and DeFi protocol developer.
+I'm **[Nife](https://nifeesleman.dev/)**, a **blockchain engineer** , **Smart Contract developer** and **DeFi protocol developer**.
 
 I design and build whatever I can imagine on-chain.
 If an idea pops into my head, chances are I’ll turn it into a smart contract, test it thoroughly, and ship it.
